@@ -1,0 +1,6 @@
+INSERT INTO [hotel].[dbo].[product_photo] ([photo], [product_id]) VALUES
+('C:\Users\User\Desktop\project\0219\eeit195_01_front\src\pictures\shop\beefnoodle.jpg', 1);
+('C:\Users\User\Desktop\project\0219\eeit195_01_front\src\pictures\shop\soup1.jpg', 2);
+('C:\Users\User\Desktop\project\0219\eeit195_01_front\src\pictures\shop\soup2.jpg', 3);
+('C:\Users\User\Desktop\project\0219\eeit195_01_front\src\pictures\shop\dumpling.jpg', 4);
+('C:\Users\User\Desktop\project\0219\eeit195_01_front\src\pictures\shop\applepie.jpg', 5);

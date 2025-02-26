@@ -1,0 +1,43 @@
+[staff1@4newlife.com](mailto:staff1@4newlife.com)
+
+[reservationist1@4newlife.com](mailto:reservationist1@4newlife.com)
+
+[merchandiser1@4newlife.com](mailto:merchandiser1@4newlife.com)
+
+[manager1@4newlife.com](mailto:manager1@4newlife.com)
+
+hotel name
+
+新生活飯店 4 New Life
+
+welcome message
+
+歡迎來到新生活飯店！我們已為您準備好一切，放鬆心情，享受賓至如歸的美好時光！
+
+welcome intro
+
+我們為您提供無與倫比的奢華住宿體驗，無論是精緻的客房設計，還是貼心的服務，我們都致力於為每一位客人營造一個無憂無慮、舒適優雅的休憩環境。
+
+footer intro
+
+為您提供最尊絕不凡和無與倫比的旅宿體驗，細緻入微的貼心服務，讓您感受家的溫暖與尊榮禮遇。
+
+search employee Id
+
+5
+
+search employee email
+
+[merchandiser2@4newlife.com]
+
+update phone number
+
+0999-666-666
+
+delete employee Id
+
+6
+
+wang8888pt@gmail.com
+
+123
