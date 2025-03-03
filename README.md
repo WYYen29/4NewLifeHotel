@@ -59,7 +59,7 @@ source 4NewLifeDemo/testData.sql;
 切換到前端專案目錄，啟動 Vite：
 
 ```bash
-cd EEIT195_01_Front-dev
+cd EEIT195_01_Front
 npm install  # 安裝依賴
 npm run dev  # 啟動開發模式
 
